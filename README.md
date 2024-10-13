@@ -32,8 +32,9 @@ The primary objective of this project is to demonstrate the application of neura
 ```
 WildLife_Insight/
 ├── Aime_Magnifique_NDAYISHIMIYE_Model_Training_and_Evaluation.ipynb       # The main project notebook containing code and analysis
+├── species_data.csv      # The Dataset
 ├── saved_models/
-│   ├── model1_vanilla.h5   # The simple baseline model
+│   ├── model1_simple.h5   # The simple/Vanilla model
 │   ├── model2_optimized.h5  # The advanced, optimized model
 │   └── ...
 └── README.md            # Project overview, objectives, and findings
